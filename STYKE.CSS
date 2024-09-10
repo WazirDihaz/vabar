@@ -1,0 +1,54 @@
+*
+{
+margin:0px;
+padding:0px;
+
+}
+#nav
+{
+    border:2px solid red;
+    height:52px;
+    background-color: black;
+}
+ul
+{
+    
+    margin-top:12px;
+    
+    
+}
+ ul li
+{
+  display:inline;
+  margin-right:100px;
+  
+  
+}
+.f
+{
+    margin-top:22px;
+}
+li a
+{
+    color:aqua;
+    border-radius:9px;
+    padding:7px;
+    text-decoration: none;
+}
+a:hover
+{
+    color:azure;
+    background-color: red;
+}
+#am
+{
+    color:yellow;
+}
+#bt
+{
+    border:2px solid black;
+    padding:7px;
+    color:brown;
+    background-color: greenyellow;
+
+}
